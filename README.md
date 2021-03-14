@@ -1,5 +1,30 @@
-# Awesome Webflow [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Webflow [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Webflow tutorials, templates, websites and other resources.
+> A curated list of awesome Webflow tutorials, templates, websites and other resources.
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+
+## Contents
+
+- [Section](#section)
+- [Another Section](#another-section)
+
+
+## Section
+
+About this section. Optional. Keep this short and focus on the list.
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Another Section
+
+### Subsection
+
+- [List item](http://example.com)
+- [List item](http://example.com)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
