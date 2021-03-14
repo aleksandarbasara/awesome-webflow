@@ -12,6 +12,7 @@
 - [Webflow University](https://university.webflow.com/)
 - [Makerpad](https://www.makerpad.co/tutorials?company=webflow)
 - [Design+Code Webflow Course](https://designcode.io/webflow)
+- [Jetboost Tutorials](https://www.jetboost.io/tutorials)
 
 ## Templates
 
