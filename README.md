@@ -5,7 +5,7 @@
 ## Contents
 
 - [Tutorials](#tutorials)
-- [Another Section](#another-section)
+- [Templates](#templates)
 
 ## Tutorials
 
