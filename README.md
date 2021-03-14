@@ -2,28 +2,23 @@
 
 > A curated list of awesome Webflow tutorials, templates, websites and other resources.
 
-
 ## Contents
 
-- [Section](#section)
+- [Tutorials](#tutorials)
 - [Another Section](#another-section)
 
+## Tutorials
 
-## Section
+- [Webflow University](https://university.webflow.com/)
+- [Makerpad](https://www.makerpad.co/tutorials?company=webflow)
+- [Design+Code Webflow Course](https://designcode.io/webflow)
 
-About this section. Optional. Keep this short and focus on the list.
+## Templates
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Webflow Templates](https://webflow.com/templates)
+- [Flowbase](https://www.flowbase.co/)
+- [Elastic Themes](https://www.elasticthemes.com/)
+- [lightning lab](https://www.lightninglab.design/)
 
 ## Contribute
 
