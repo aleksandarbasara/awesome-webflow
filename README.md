@@ -10,17 +10,17 @@
 
 ## Tutorials
 
-- [Webflow University](https://university.webflow.com/)
-- [Makerpad](https://www.makerpad.co/tutorials?company=webflow)
-- [Design+Code Webflow Course](https://designcode.io/webflow)
-- [Jetboost Tutorials](https://www.jetboost.io/tutorials)
+- [Webflow University](https://university.webflow.com/?ref=awesome-webflow)
+- [Makerpad](https://www.makerpad.co/tutorials?company=webflow/?ref=awesome-webflow)
+- [Design+Code Webflow Course](https://designcode.io/webflow/?ref=awesome-webflow)
+- [Jetboost Tutorials](https://www.jetboost.io/tutorials/?ref=awesome-webflow)
 
 ## Templates
 
-- [Webflow Templates](https://webflow.com/templates)
-- [Flowbase](https://www.flowbase.co/)
-- [Elastic Themes](https://www.elasticthemes.com/)
-- [lightning lab](https://www.lightninglab.design/)
+- [Webflow Templates](https://webflow.com/templates/?ref=awesome-webflow)
+- [Flowbase](https://www.flowbase.co/?ref=awesome-webflow)
+- [Elastic Themes](https://www.elasticthemes.com/?ref=awesome-webflow)
+- [lightning lab](https://www.lightninglab.design/?ref=awesome-webflow)
 
 ## Inspiration
 
