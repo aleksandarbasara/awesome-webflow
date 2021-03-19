@@ -24,6 +24,7 @@
 
 ## Inspiration
 
+- [Heartcore - Investing in happiness. (2020)](https://www.heartcore.com/?ref=awesome-webflow)
 - [sa.design - Crafting Unique Web & Brand Design (2020)](https://www.sa-design.co/?ref=awesome-webflow)
 
 ## Contribute
