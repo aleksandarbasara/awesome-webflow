@@ -24,6 +24,8 @@
 
 ## Inspiration
 
+- [Streetlight studio - We turn stories and data into emotional, unique and smart digital products. (2020)](hhttps://www.studiostreetlight.com/?ref=awesome-webflow)
+- [Bolden Ventures - Decentralize. Create. Revolutionize. (2020)](https://www.bolden.ventures/?ref=awesome-webflow)
 - [Heartcore - Investing in happiness. (2020)](https://www.heartcore.com/?ref=awesome-webflow)
 - [sa.design - Crafting Unique Web & Brand Design (2020)](https://www.sa-design.co/?ref=awesome-webflow)
 
