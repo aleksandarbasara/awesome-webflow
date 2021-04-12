@@ -24,10 +24,11 @@
 
 ## Inspiration
 
-- [Streetlight studio - We turn stories and data into emotional, unique and smart digital products. (2020)](https://www.studiostreetlight.com/?ref=awesome-webflow)
+- [Nordisk Games - Nordisk Games provides smart growth capital, strategic guidance and operational support (2021)](https://www.nordiskgames.com/?ref=awesome-webflow)
+- [Streetlight studio - We turn stories and data into emotional, unique and smart digital products. (2021)](https://www.studiostreetlight.com/?ref=awesome-webflow)
 - [Bolden Ventures - Decentralize. Create. Revolutionize. (2020)](https://www.bolden.ventures/?ref=awesome-webflow)
-- [Heartcore - Investing in happiness. (2020)](https://www.heartcore.com/?ref=awesome-webflow)
-- [sa.design - Crafting Unique Web & Brand Design (2020)](https://www.sa-design.co/?ref=awesome-webflow)
+- [Heartcore - Investing in happiness. (2021)](https://www.heartcore.com/?ref=awesome-webflow)
+- [sa.design - Crafting Unique Web & Brand Design (2021)](https://www.sa-design.co/?ref=awesome-webflow)
 
 ## Contribute
 
