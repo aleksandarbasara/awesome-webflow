@@ -24,6 +24,10 @@
 
 ## Inspiration
 
+- [Felt – The best way to make maps on the internet. (2021)](https://www.felt.com/?ref=awesome-webflow)
+- [Gamma – Meet the modern memo. Write like a doc, present like a deck, discuss live or async. (2021)](https://www.seventh.tv/?ref=awesome-webflow)
+- [Seventh Movement – Storytellers and Moving Image Makers (2021)](https://www.seventh.tv/?ref=awesome-webflow)
+- [Attio – the Relationship Workspace (2021)](https://attio.com/?ref=awesome-webflow)
 - [Riverside FM - Record Podcasts And Video Interviews From Anywhere (2021)](https://riverside.fm/?ref=awesome-webflow)
 - [Feels - Too cool to match (2021)](https://www.feels-app.com/?ref=awesome-webflow)
 - [Inqli - Driven by curiosity. Technology for people. (2021)](https://www.inqli.com/?ref=awesome-webflow)
