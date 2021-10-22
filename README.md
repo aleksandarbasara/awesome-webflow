@@ -25,6 +25,10 @@
 
 ## Inspiration
 
+- [Whiteboard – A creative agency for meaningful brands (2021)](https://www.whiteboard.is/?ref=awesome-webflow)
+- [Splaaashes – Handcrafted, multicolor abstract shapes (2021)](https://products.ls.graphics/splaaashes/?ref=awesome-webflow)
+- [Cre8tiveRevolution – Entrepreneurship courses for creators (2021)](https://www.cre8tiverevolution.com/?ref=awesome-webflow)
+- [Mrs&Mr – A creative company finding solutions for complex problems (2021)](https://www.mrsandmr.com/?ref=awesome-webflow)
 - [Christie’s – Delivering extraordinary works of art to the next generation of collectors. (2021)](https://shop.christies.com/?ref=awesome-webflow)
 - [BK Real Meals – All the flavors you crave without the ingredients you don’t. (2021)](https://realmeals.bk.com/?ref=awesome-webflow)
 - [nolk – modern brand stewards for the digital generation. (2021)](https://www.nolk.com/?ref=awesome-webflow)
